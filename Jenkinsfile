@@ -1,3 +1,4 @@
+#!groovy
 node("tester_tt"){
     stage("one"){
         echo "start one"
